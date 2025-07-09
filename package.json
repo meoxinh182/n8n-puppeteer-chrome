@@ -1,0 +1,9 @@
+{
+  "name": "n8n-puppeteer-setup",
+  "version": "1.0.0",
+  "dependencies": {
+    "n8n": "^1.100.1",
+    "puppeteer": "^22.7.0",
+    "n8n-nodes-puppeteer": "^1.4.1"
+  }
+}
